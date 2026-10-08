@@ -1,0 +1,9 @@
+[
+  { "file": "MY TEMPP FID.docx", "label": "Fidelity Pension", "suffix": "fidelity" },
+  { "file": "MY TEMPP PPREMM.docx", "label": "Premium Pension", "suffix": "premium" },
+  { "file": "ACCESS TEMP.docx", "label": "Access Pension", "suffix": "access" },
+  { "file": "MY TEMPP FCMB.docx", "label": "FCMB Pension", "suffix": "fcmb" },
+  { "file": "NPF TEMP.docx", "label": "NPF Pension", "suffix": "npf" },
+  { "file": "MY TEMPP Stanbic.docx", "label": "Stanbic Pension", "suffix": "stanbic" },
+  { "file": "MY TEMPP TrustFUND.docx", "label": "TrustFUND Pension", "suffix": "trustfund" }
+]
